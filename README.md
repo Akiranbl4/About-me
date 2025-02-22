@@ -10,4 +10,4 @@ I graduated from the correspondence department of the Belarusian State Technolog
 
 At the moment, I am in Georgia in the resort city of Batumi and comprehending the world of web3 technologies.
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Akiranbl4&theme=radical)
+
