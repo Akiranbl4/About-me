@@ -44,7 +44,7 @@ Currently a validator of the [Stargaze](https://www.mintscan.io/stargaze/validat
 
 ## Contacts
 
-Telegram - https://t.me/Akiranbl4​
-Twitter - https://x.com/Vladimi82174032​
-GitHub - https://github.com/Akiranbl4
+Telegram - https://t.me/Akiranbl4​  
+Twitter - https://x.com/Vladimi82174032​  
+GitHub - https://github.com/Akiranbl4  
 
